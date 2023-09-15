@@ -1,0 +1,25 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.zip filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Library filter=lfs diff=lfs merge=lfs -text
+Assets/BigFiles/* filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings/Assets filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings/Assets/Ground[[:space:]]textures[[:space:]]pack filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings/Assets/JP[[:space:]]Environmental[[:space:]]Asset[[:space:]]Pack filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings/Assets/JP[[:space:]]Environmental[[:space:]]Asset[[:space:]]Pack/Textures filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Ground[[:space:]]textures[[:space:]]pack filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/JP[[:space:]]Environmental[[:space:]]Asset[[:space:]]Pack/Textures filter=lfs diff=lfs merge=lfs -text
+Assets/Models/Characters/Player/Ch31_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Poly[[:space:]]Ninja/Stykized[[:space:]]Vegetation[[:space:]]Pack[[:space:]]Free/Textures/Skybox.tga filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Models/Characters/Player filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Poly[[:space:]]Ninja/Stykized[[:space:]]Vegetation[[:space:]]Pack[[:space:]]Free/Textures/Skybox.tga filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Models/Characters/Player/Ch31_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Models/Characters/Player/Ch31_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Poly[[:space:]]Ninja/Stykized[[:space:]]Vegetation[[:space:]]Pack[[:space:]]Free/Textures/Skybox.tga filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/Poly[[:space:]]Ninja/Stykized[[:space:]]Vegetation[[:space:]]Pack[[:space:]]Free/Textures/Skybox.tga filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/ProjectSettings/* filter=lfs diff=lfs merge=lfs -text
+D:/ITStep/Unity/My[[:space:]]project/Assets/* filter=lfs diff=lfs merge=lfs -text
